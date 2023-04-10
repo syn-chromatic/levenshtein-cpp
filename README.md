@@ -4,7 +4,6 @@ Compute operational differences between two sequences using the Levenshtein algo
 
 ___
 ## Usage:
-#### Regular Usage:
 ```cpp
 
 Levenshtein lev = Levenshtein("test", "text");
